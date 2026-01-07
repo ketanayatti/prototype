@@ -4,7 +4,7 @@
   import path from 'path';
 
   export default defineConfig({
-    base: '/E-commerce-Website-Prototype/',
+    base: '/prototype/',
     plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
